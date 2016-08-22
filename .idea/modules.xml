@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/100 - 3n+1/100 - 3n+1.iml" filepath="$PROJECT_DIR$/100 - 3n+1/100 - 3n+1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/101 - The Blocks Problem/101 - The Blocks Problem.iml" filepath="$PROJECT_DIR$/101 - The Blocks Problem/101 - The Blocks Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UvaToolkit.iml" filepath="$PROJECT_DIR$/UvaToolkit.iml" />
+    </modules>
+  </component>
+</project>
