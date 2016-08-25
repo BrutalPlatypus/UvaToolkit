@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/100 - 3n+1/100 - 3n+1.iml" filepath="$PROJECT_DIR$/100 - 3n+1/100 - 3n+1.iml" />
       <module fileurl="file://$PROJECT_DIR$/101 - The Blocks Problem/101 - The Blocks Problem.iml" filepath="$PROJECT_DIR$/101 - The Blocks Problem/101 - The Blocks Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/102 - Ecological Bin Packing/102 - Ecological Bin Packing.iml" filepath="$PROJECT_DIR$/102 - Ecological Bin Packing/102 - Ecological Bin Packing.iml" />
       <module fileurl="file://$PROJECT_DIR$/UvaToolkit.iml" filepath="$PROJECT_DIR$/UvaToolkit.iml" />
     </modules>
   </component>
